@@ -33,8 +33,7 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXJoaoVictorNogXx&theme=dracula&show_icons=true&hide_border=true&count_private=true&v=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXJoaoVictorNogXx&theme=dracula&layout=compact&hide_border=true&v=1" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xXJoaoVictorNogXx&theme=dracula&hide_border=true" />
 </div>
 
 <!-- Rodapé -->
