@@ -34,10 +34,10 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
 
 <div align="center">
   <a href="https://github.com/xXJoaoVictorNogXx/MirageSolutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=MirageSolutions1&theme=dracula" />
   </a>
-  <a href="https://github.com/xXJoaoVictorNogXx/ Domains-Gestor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=NOME_DO_SEU_REPOSITORIO_2&theme=dracula" />
+  <a href="https://github.com/xXJoaoVictorNogXx/Domains-Gestor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Domains-Gestor&theme=dracula" />
   </a>
 </div>
 ---
