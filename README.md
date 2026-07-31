@@ -48,10 +48,6 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
   <a href="https://github.com/xXJoaoVictorNogXx">
     <img src="https://streak-stats.demolab.com?user=xXJoaoVictorNogXx&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
-  <br><br>
-  <a href="https://github.com/xXJoaoVictorNogXx">
-    <img src="https://github-profile-trophy.vercel.app/?username=xXJoaoVictorNogXx&theme=dracula&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
-  </a>
 </div>
 
 <!-- Rodapé -->
