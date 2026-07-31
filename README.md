@@ -34,10 +34,10 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
 
 | 🚀 Repositório | 📌 Sobre o Projeto | 🛠 Principais Tecnologias |
 | :--- | :--- | :--- |
-| [**MirageSolutions**](https://github.com/xXJoaoVictorNogXx/MirageSolutions) | [Adicione uma breve descrição aqui] | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
-| [**Domains-Gestor**](https://github.com/xXJoaoVictorNogXx/Domains-Gestor) | [Adicione uma breve descrição aqui] | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| [**STM-Angular**](https://github.com/xXJoaoVictorNogXx/STM-Angular) | [Adicione uma breve descrição aqui] | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
-| [**Alecrim-Frios**](https://github.com/xXJoaoVictorNogXx/Alecrim-Frios) | Catálogo digital para produtos de charcutaria. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+| [**MirageSolutions**](https://github.com/xXJoaoVictorNogXx/MirageSolutions) | Uma landing page institucional moderna e responsiva desenvolvida para a Mirage Solutions, projetada para apresentar serviços e captar leads de forma performática e intuitiva. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+| [**Domains-Gestor**](https://github.com/xXJoaoVictorNogXx/Domains-Gestor) | Um painel web desenvolvido para gestão de domínios e controlo de acessos, focado numa interface limpa, escalabilidade e numa arquitetura de front-end robusta. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+| [**STM-Angular**](https://github.com/xXJoaoVictorNogXx/STM-Angular) | Prova de Conceito (PoC): Modernização de UI e Estrutura de Telas Este repositório contém uma Prova de Conceito (PoC) focada em validar uma nova arquitetura de Frontend utilizando Angular e Spartan UI (Tailwind CSS). | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
+| [**Alecrim-Frios**](https://github.com/xXJoaoVictorNogXx/Alecrim-Frios) | Um catálogo digital moderno, elegante e mobile-first desenvolvido para a Alecrim Frios, focado no segmento de charcutaria e frios especiais. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
 | [**Banco-de-Dados-Java**](https://github.com/xXJoaoVictorNogXx/Banco-de-Dados-Java) | [Adicione uma breve descrição aqui] | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
 
 ---
