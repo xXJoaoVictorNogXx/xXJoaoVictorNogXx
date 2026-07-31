@@ -39,6 +39,15 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
   <a href="https://github.com/xXJoaoVictorNogXx/Domains-Gestor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Domains-Gestor&theme=dracula" />
   </a>
+  <a href="https://github.com/xXJoaoVictorNogXx/STM-Angular">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=STM-Angular&theme=dracula" />
+  </a>
+  <a href="https://github.com/xXJoaoVictorNogXx/Alecrim-Frios">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Alecrim-Frios&theme=dracula" />
+  </a>
+  <a href="https://github.com/xXJoaoVictorNogXx/Banco-de-Dados-Java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Banco-de-Dados-Java&theme=dracula" />
+  </a>
 </div>
 ---
 
