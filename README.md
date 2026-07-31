@@ -30,6 +30,18 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
 
 ---
 
+## 🏆 Meus Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/xXJoaoVictorNogXx/NOME_DO_SEU_REPOSITORIO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=NOME_DO_SEU_REPOSITORIO_1&theme=dracula" />
+  </a>
+  <a href="https://github.com/xXJoaoVictorNogXx/NOME_DO_SEU_REPOSITORIO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=NOME_DO_SEU_REPOSITORIO_2&theme=dracula" />
+  </a>
+</div>
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
