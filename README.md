@@ -34,7 +34,7 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
 
 <div align="center">
   <a href="https://github.com/xXJoaoVictorNogXx/MirageSolutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=MirageSolutions1&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=MirageSolutions&theme=dracula" />
   </a>
   <a href="https://github.com/xXJoaoVictorNogXx/Domains-Gestor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Domains-Gestor&theme=dracula" />
@@ -49,13 +49,19 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Banco-de-Dados-Java&theme=dracula" />
   </a>
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXJoaoVictorNogXx&theme=dracula&show_icons=true&hide_border=true&count_private=true&v=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXJoaoVictorNogXx&theme=dracula&layout=compact&hide_border=true&v=1" />
+  <a href="https://github.com/xXJoaoVictorNogXx">
+    <img src="https://streak-stats.demolab.com?user=xXJoaoVictorNogXx&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <a href="https://github.com/xXJoaoVictorNogXx">
+    <img src="https://github-profile-trophy.vercel.app/?username=xXJoaoVictorNogXx&theme=dracula&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
+  </a>
 </div>
 
 <!-- Rodapé -->
