@@ -32,23 +32,13 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
 
 ## 🏆 Meus Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/xXJoaoVictorNogXx/MirageSolutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=MirageSolutions&theme=dracula" />
-  </a>
-  <a href="https://github.com/xXJoaoVictorNogXx/Domains-Gestor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Domains-Gestor&theme=dracula" />
-  </a>
-  <a href="https://github.com/xXJoaoVictorNogXx/STM-Angular">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=STM-Angular&theme=dracula" />
-  </a>
-  <a href="https://github.com/xXJoaoVictorNogXx/Alecrim-Frios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Alecrim-Frios&theme=dracula" />
-  </a>
-  <a href="https://github.com/xXJoaoVictorNogXx/Banco-de-Dados-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xXJoaoVictorNogXx&repo=Banco-de-Dados-Java&theme=dracula" />
-  </a>
-</div>
+| 🚀 Repositório | 📌 Sobre o Projeto | 🛠 Principais Tecnologias |
+| :--- | :--- | :--- |
+| [**MirageSolutions**](https://github.com/xXJoaoVictorNogXx/MirageSolutions) | [Adicione uma breve descrição aqui] | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
+| [**Domains-Gestor**](https://github.com/xXJoaoVictorNogXx/Domains-Gestor) | [Adicione uma breve descrição aqui] | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
+| [**STM-Angular**](https://github.com/xXJoaoVictorNogXx/STM-Angular) | [Adicione uma breve descrição aqui] | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
+| [**Alecrim-Frios**](https://github.com/xXJoaoVictorNogXx/Alecrim-Frios) | Catálogo digital para produtos de charcutaria. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+| [**Banco-de-Dados-Java**](https://github.com/xXJoaoVictorNogXx/Banco-de-Dados-Java) | [Adicione uma breve descrição aqui] | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
 
 ---
 
