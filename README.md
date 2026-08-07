@@ -3,16 +3,25 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software na UNDB e atuo como Desenvolvedor Full Stack na Log Lab Digital, focado no projeto da SEMFAZ. Tenho experiência profissional em suporte de TI e rotinas administrativas, o que me trouxe uma visão muito prática sobre a resolução de problemas em ambientes de produção.
-
-Atualmente na SEMFAZ, tenho trabalhado em entregas de alto impacto, especialmente nos projetos envolvendo o Simples Nacional. Fui responsável por reformular toda a parte de UI/UX da tela de emissão da malha fiscal do município, modernizando a interface para o usuário. Além do front-end, também atuo diretamente na regra de negócio e banco de dados, realizando ajustes e otimizações na própria malha fiscal utilizando Oracle e Packages (PCKs).
-
-No dia a dia, transito desde a criação de interfaces modernas até a manutenção e construção de sistemas legados e corporativos.
+Sou estudante de Engenharia de Software na UNDB e atuo como Desenvolvedor Full Stack na Log Lab Digital, focado no projeto da SEMFAZ. No dia a dia, transito desde a criação de interfaces modernas até a manutenção e construção de sistemas legados e corporativos.
 
 - 🚀 **Trabalhando atualmente em:** Desenvolvimento de interfaces modernas e automação de processos internos.
 - 💡 **Projetos recentes:** Aplicações web responsivas, plataformas de vagas e catálogos digitais.
 - ⚙️ **Explorando:** Novas abordagens no Front-end, ecossistema Angular e consumo avançado de APIs.
 - 🎓 **Formação:** Engenharia de Software (UNDB).
+
+---
+
+## 🎯 Objetivos
+Continuar evoluindo como Desenvolvedor Full Stack, entregando soluções eficientes e de alto impacto. Busco aprofundar meus conhecimentos em arquitetura de software, consumo de APIs e integrações complexas, agregando valor prático aos projetos em que atuo.
+
+## 🤝 Soft Skills
+Resolução de problemas, Rápida adaptação a novas tecnologias, Visão prática de negócios, Trabalho em equipe e Comunicação assertiva.
+
+## 💼 Experiência
+
+**Desenvolvedor Full Stack - Log Lab Digital (Projeto SEMFAZ)**
+*Atividades:* Atuação em entregas de alto impacto envolvendo o sistema de arrecadação (Simples Nacional). Fui responsável por desenvolver o novo front-end da tela de emissão da malha fiscal do município, implementando a reformulação de UI/UX no código para entregar uma interface moderna e eficiente. Além do front-end, atuo diretamente nas regras de negócio, realizando ajustes e otimizações complexas na própria malha utilizando banco de dados Oracle e manipulação de Packages (PCKs). O ambiente de produção me proporciona uma vasta experiência prática na resolução de problemas complexos.
 
 ---
 
@@ -49,6 +58,14 @@ No dia a dia, transito desde a criação de interfaces modernas até a manutenç
     <img src="https://streak-stats.demolab.com?user=xXJoaoVictorNogXx&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+
+## 📬 Vamos nos conectar?
+
+* ✉️ **E-mail:** joaovictorfcantanheden@gmail.com
+* 💼 **LinkedIn:** www.linkedin.com/in/joão-victor-nogueira-519359261
+* 📍 **Localização:** São Luís, MA
 
 <!-- Rodapé -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
